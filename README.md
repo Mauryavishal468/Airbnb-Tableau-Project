@@ -11,8 +11,8 @@ The dashboard includes:
 - City-wise listing analysis
 - Interactive filters for better exploration
 
-![Dashboard Screenshot](![Screenshot (186)](https://github.com/user-attachments/assets/dcd78d8a-1899-4382-a28e-eb23abeb5af3)
-)
+![Dashboard Screenshot]![Screenshot (186)](https://github.com/user-attachments/assets/dcd78d8a-1899-4382-a28e-eb23abeb5af3)
+
 
 ## 🔧 Tools Used
 - **Tableau Public / Desktop**
